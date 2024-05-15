@@ -1,25 +1,25 @@
-# TÍTULO DO PROJETO
+# DOBRADORA DE ROUPA AUTOMÁTICA
 
-`CAMPUS/UNIDADE`
+`PUC MINAS CAMPUS PRAÇA DA LIBERDADE`
 
-`CURSO`
+`CURSO: ENGENHARIA DE COMPUTAÇÃO`
 
-`SEMESTRE`
+`1o PERÍODO`
 
-`DISCIPLINA`
+`DISCIPLINA: LABORATÓRIO DE INTRODUÇÃO A ENGENHARIA DE COMPUTAÇÃO (LIEC)`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* João Pedro Neffa de Sousa Oliveira
+* Eduardo de Grazia Franco
+* Júlia Pinto Lara Resende
+* Alexandre Versiani Raposo
+* Pedro Henrique Simao Diniz
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Resumo
 
