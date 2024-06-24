@@ -10,7 +10,12 @@ Para utilizar da dobradora de roupa automática, deve-se seguir os passos abaixo
 5. Selecionar qualquer uma das 3 opções de roupa para dobragem (camisa, bermuda ou regata),
 6. Apertar o botão "Dobrar" para iniciar a dobragem.
 
-Lembretes: 
+#### Lembretes: 
 - Verifique se o bluetooth está devidamente conectado.
 - Verifique se a tomada está conectada firmemente com a entrada P4.
 - Coloque a roupa de forma a cobrir todas as plataformas e não jogar em cima de qualquer forma.
+
+### Uso do Código
+Para usar o código e alterar-lo como quiser, deve-se primeiro baixar as bibliotecas:
+- ESP32Servo.h - Controle dos Servos com Esp32
+- BluetoothSerial.h - Conecção Bluetooth do Esp

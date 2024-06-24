@@ -23,7 +23,13 @@
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste a confecção de uma dobradora de roupa automática utilizando de componêntes eletrônicos, 
+como servos motores de alto torque, e programação direcionada para microcontroladores (arquivos .ino para Esp32) 
+para movimentar uma série de plataformas com o objetivo de dobrar tipos de roupa diferentes. 
+
+A máquina atualmente tem a capacidade de dobrar camisas, bermudas e regatas por meio de comandos passados 
+por bluetooth pelo nosso app, desenvolvido por meio da plataforma <a href="https://appinventor.mit.edu">App 
+Inventor do MIT</a>.
 
 # Código (do arduino ou esp32)
 

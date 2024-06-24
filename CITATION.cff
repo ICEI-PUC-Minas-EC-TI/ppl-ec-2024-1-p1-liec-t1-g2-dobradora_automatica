@@ -1,24 +1,22 @@
 cff-version: 1.0.1
 message: "Please cite this project using these metadata."
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: "Neffa de Sousa Oliveira"
+    given-names: "João Pedro"
+  - family-names: "de Grazia Franco"
+    given-names: Eduardo
+  - family-names: "Pinto Lara Resende"
+    given-names: Júlia
+  - family-names: "Versiani Raposo"
+    given-names: Alexandre
+  - family-names: "Henrique Simao Diniz"
+    given-names: Pedro
   - name-suffix: "Professor"
-    given-names: 
-    family-names:
+    given-names: Felipe
+    family-names: "Augusto Lara Soares"
     affiliation: "PUC Minas"
-title: ""
+title: "Dobradora de Roupa Automática"
 version: 1.0.0
 date-released: 2024-01-14
-url: ""
+url: "https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g2-dobradora_automatica.git"
 
