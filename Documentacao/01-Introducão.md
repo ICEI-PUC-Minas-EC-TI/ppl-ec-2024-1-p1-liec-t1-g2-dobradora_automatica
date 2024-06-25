@@ -1,17 +1,24 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O dobrador de roupas automático é um equipamento desenvolvido para dobrar
+peças de vestuário de maneira rápida e precisa. Este dispositivo é amplamente
+utilizado na indústria têxtil, em lavanderias e em estabelecimentos comerciais que
+necessitam de alta eficiência no manuseio de roupas. A principal função do
+dobrador de roupas automático é automatizar o processo de dobragem,
+aumentando a eficiência e a consistência em comparação com a dobragem manual.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que o seu projeto deve  resolver. Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. 
+Automatizar o processo de dobramento de roupas como camisas, bermudas e regatas.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um projeto para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+- Automatizar o processo de dobragem de roupas manual, aumentando eficiencia e a consistência
+- Simplificar tarefas domésticas usuais e experimentar outras aplicações
+- Experimentar o uso de componentes eletrônicos ligados a aplicações e programas de computadores
  
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão o projeto. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, etc.
+- Indústria Têxtil
+- Comercios (lavanderias e outros tipos)
+- Trabalhadores domésticos

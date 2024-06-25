@@ -1,6 +1,6 @@
 # DOBRADORA DE ROUPA AUTOMÁTICA
 
-`PUC MINAS CAMPUS PRAÇA DA LIBERDADE`
+`PUC MINAS PRAÇA DA LIBERDADE`
 
 `CURSO: ENGENHARIA DE COMPUTAÇÃO`
 
@@ -23,9 +23,14 @@
 
 ## Resumo
 
-O projeto consiste a confecção de uma dobradora de roupa automática utilizando de componêntes eletrônicos, 
-como servos motores de alto torque, e programação direcionada para microcontroladores (arquivos .ino para Esp32) 
-para movimentar uma série de plataformas com o objetivo de dobrar tipos de roupa diferentes. 
+O projeto consiste a confecção de uma dobradora de roupa automática, que é
+um equipamento que dobra peças de vestuário de maneira rápida e precisa, sendo
+amplamente utilizado na indústria têxtil, lavanderias e estabelecimentos
+comerciais. Com componentes como alimentador, mecanismo de dobragem, componêntes eletrônicos, 
+como servos motores de alto torque, e programação direcionada para microcontroladores (arquivos .ino para Esp32), ele aumenta a eficiência e a consistência em comparação com a dobragem manual ao movimentar uma série de 
+plataformas com o objetivo de dobrar tipos de roupa diferentes. Suas vantagens incluem alta
+eficiência, precisão e redução de custos operacionais, tornando-o essencial para
+modernizar processos de manuseio de roupas.
 
 A máquina atualmente tem a capacidade de dobrar camisas, bermudas e regatas por meio de comandos passados 
 por bluetooth pelo nosso app, desenvolvido por meio da plataforma <a href="https://appinventor.mit.edu">App 
