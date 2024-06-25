@@ -1,5 +1,5 @@
 # Código do Arduino/ESP
 
-Mantenha neste diretório todo o código do Arduino ou ESP. Para isso, salve aqui o arquivo .ino.
+Acesse aqui o arquivo .ino do ESP32:
 
 Código: <a href="./MotorTeste.ino">Dobradora.ino</a>
